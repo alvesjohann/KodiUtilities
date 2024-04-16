@@ -1,7 +1,0 @@
-https://convertio.co/pt/
-https://products.aspose.app/cells/conversion/html-to-xlsx
-
-No Excel:
-	Remover linhas em branco;
-	Remover caracteres não imprimíveis (=tirar());
-	Salvar como .txt (renomear para algo simples como "Temporada_1").
