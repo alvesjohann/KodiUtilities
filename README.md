@@ -1,6 +1,6 @@
 # KodiUtilities
  Simple codes to best organize files for Kodi scrapers.
 
- Tarefas:
+ To do:
  - [ ] Criar conexão com API TMDB.
  - [ ] Criar GUI.
