@@ -1,5 +1,5 @@
 # KodiUtilities
- Simple codes to best organize files for smb server.
+ Simple codes to best organize files for Kodi scrapers.
 
  Tarefas:
  - [ ] Criar conexão com API TMDB.
