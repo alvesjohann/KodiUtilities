@@ -5,7 +5,7 @@ titleMenuPrincipal = "MANIPULAÇÃO DE ARQUIVOS"
 titleAlteracao = "Deseja fazer mais alterarações nesta pasta?"
 titleTentarDeNovo = "Tentar de novo?"
 
-#### DEFINIÇÕES DE OPÇÕES #### teste
+#### DEFINIÇÕES DE OPÇÕES ####
 MenuPrincipal = 'm'
 AdicionarPrefixo = 'p'
 RemoverPrefixo = 'r'
