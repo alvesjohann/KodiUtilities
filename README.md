@@ -1,5 +1,8 @@
 # KodiUtilities
  Simple codes to best organize files for Kodi scrapers.
+ 
+>**Important: this is a *practice python code*. It was not made thinking to be used by other people. Use at your own risk. (It's an *english writing practice* too.)**
+
 
  **KodiUtilities is in early stages and is my first major app. Be aware.**
  
