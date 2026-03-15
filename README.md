@@ -2,9 +2,6 @@
  Simple codes to best organize files for Kodi scrapers.
  
 >**Important: this is a *practice python code*. It was not made thinking to be used by other people. Use at your own risk. (It's an *english writing practice* too.)**
-
-
- **KodiUtilities is in early stages and is my first major app. Be aware.**
  
 ***
 To use "Organizar Episódios" a workaround is needed (until I found a way to make a connection with TMDB API):
